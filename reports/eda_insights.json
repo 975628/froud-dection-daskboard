@@ -1,0 +1,17 @@
+{
+  "rows": 50000,
+  "fraud_labeled_transactions": 16067,
+  "legitimate_labeled_transactions": 33933,
+  "fraud_rate": 0.32134,
+  "total_transaction_value": 4970550.609999999,
+  "mean_transaction_amount": 99.41101219999999,
+  "daily_transaction_volume_peak": 170,
+  "fraud_rate_by_transaction_type": {
+    "ATM Withdrawal": 0.32490163012928613,
+    "Bank Transfer": 0.3208319948602634,
+    "Online": 0.3212976247409533,
+    "POS": 0.31835205992509363
+  },
+  "missing_values_by_column": {},
+  "interpretation_note": "These are associations in the supplied synthetic dataset; they do not establish causation or real-world fraud performance."
+}

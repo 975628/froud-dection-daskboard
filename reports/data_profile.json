@@ -1,0 +1,16 @@
+{
+  "rows_before_cleaning": 50000,
+  "rows_after_cleaning": 50000,
+  "duplicate_rows_removed": 0,
+  "rows_without_valid_target_removed": 0,
+  "missing_values_by_column": {},
+  "unparseable_numeric_values_by_column": {},
+  "negative_transaction_amounts": 0,
+  "negative_card_ages": 0,
+  "date_min": "2023-01-01",
+  "date_max": "2023-12-31",
+  "target_distribution": {
+    "0": 33933,
+    "1": 16067
+  }
+}

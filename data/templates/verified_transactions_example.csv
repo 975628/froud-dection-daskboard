@@ -1,0 +1,2 @@
+Transaction_ID,User_ID,Transaction_Amount,Transaction_Type,Date,Account_Balance,Device_Type,Location,Merchant_Category,Previous_Fraudulent_Activity,Daily_Transaction_Count,Card_Type,Card_Age,Fraud_Label
+EXAMPLE_TXN_001,EXAMPLE_USER_001,1250.00,Online,2026-01-15,8000.00,Mobile,Example City,Electronics,0,3,Debit,24,
